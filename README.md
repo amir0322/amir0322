@@ -55,6 +55,8 @@ AI Engineer | Generative AI | RAG Systems | FastAPI | Agentic AI
 
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)
 
+![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge)
+
 ---
 
 ## 📊 GitHub Stats
