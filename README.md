@@ -73,12 +73,6 @@ AI Engineer | Generative AI | RAG Systems | FastAPI | Agentic AI
 
 ---
 
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=amir0322&theme=tokyo-night)
-
----
-
 ## 📌 Featured Projects
 
 ### Production RAG API
