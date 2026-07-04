@@ -1,3 +1,6 @@
+<p align="center">
+<img src="assets/file_00000000ba5c71fbafb81a2909dd8870.png" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Amir Zaheer</h1>
 
 <h3 align="center">
